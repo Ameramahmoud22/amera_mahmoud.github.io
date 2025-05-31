@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ameramahmoud22.Ameramahmoud22&left_color=darkgreen&right_color=forestgreen&left_text=Visitors"  />
 </div>
 
@@ -17,6 +17,17 @@
   <img src="https://streak-stats.demolab.com?user=Ameramahmoud22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ameramahmoud22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">My Trophies</h2>
+<p align="left">
+  <a href="https://github.com/EHAB3x/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ameramahmoud22&theme=onedark" alt="trophy">
+  </a>
+</p>
+
+###
 
 ###
 
